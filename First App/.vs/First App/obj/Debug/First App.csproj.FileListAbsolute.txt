@@ -1,0 +1,8 @@
+C:\Users\Austin\Desktop\git\C-Sharp\Beginners\.vs\First App\bin\Debug\First App.exe.config
+C:\Users\Austin\Desktop\git\C-Sharp\Beginners\.vs\First App\bin\Debug\First App.exe
+C:\Users\Austin\Desktop\git\C-Sharp\Beginners\.vs\First App\bin\Debug\First App.pdb
+C:\Users\Austin\Desktop\git\C-Sharp\Beginners\.vs\First App\obj\Debug\First App.csproj.AssemblyReference.cache
+C:\Users\Austin\Desktop\git\C-Sharp\Beginners\.vs\First App\obj\Debug\First App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Austin\Desktop\git\C-Sharp\Beginners\.vs\First App\obj\Debug\First App.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\git\C-Sharp\Beginners\.vs\First App\obj\Debug\First App.exe
+C:\Users\Austin\Desktop\git\C-Sharp\Beginners\.vs\First App\obj\Debug\First App.pdb
