@@ -1,0 +1,17 @@
+C:\Users\Austin\Desktop\git\C-Sharp\Temperature Conversion GUI\Temperature Conversion GUI\bin\Debug\net6.0-windows\Temperature Conversion GUI.exe
+C:\Users\Austin\Desktop\git\C-Sharp\Temperature Conversion GUI\Temperature Conversion GUI\bin\Debug\net6.0-windows\Temperature Conversion GUI.deps.json
+C:\Users\Austin\Desktop\git\C-Sharp\Temperature Conversion GUI\Temperature Conversion GUI\bin\Debug\net6.0-windows\Temperature Conversion GUI.runtimeconfig.json
+C:\Users\Austin\Desktop\git\C-Sharp\Temperature Conversion GUI\Temperature Conversion GUI\bin\Debug\net6.0-windows\Temperature Conversion GUI.dll
+C:\Users\Austin\Desktop\git\C-Sharp\Temperature Conversion GUI\Temperature Conversion GUI\bin\Debug\net6.0-windows\Temperature Conversion GUI.pdb
+C:\Users\Austin\Desktop\git\C-Sharp\Temperature Conversion GUI\Temperature Conversion GUI\obj\Debug\net6.0-windows\Temperature Conversion GUI.csproj.AssemblyReference.cache
+C:\Users\Austin\Desktop\git\C-Sharp\Temperature Conversion GUI\Temperature Conversion GUI\obj\Debug\net6.0-windows\Temperature_Conversion_GUI.temp_convert.resources
+C:\Users\Austin\Desktop\git\C-Sharp\Temperature Conversion GUI\Temperature Conversion GUI\obj\Debug\net6.0-windows\Temperature Conversion GUI.csproj.GenerateResource.cache
+C:\Users\Austin\Desktop\git\C-Sharp\Temperature Conversion GUI\Temperature Conversion GUI\obj\Debug\net6.0-windows\Temperature Conversion GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Desktop\git\C-Sharp\Temperature Conversion GUI\Temperature Conversion GUI\obj\Debug\net6.0-windows\Temperature Conversion GUI.AssemblyInfoInputs.cache
+C:\Users\Austin\Desktop\git\C-Sharp\Temperature Conversion GUI\Temperature Conversion GUI\obj\Debug\net6.0-windows\Temperature Conversion GUI.AssemblyInfo.cs
+C:\Users\Austin\Desktop\git\C-Sharp\Temperature Conversion GUI\Temperature Conversion GUI\obj\Debug\net6.0-windows\Temperature Conversion GUI.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\git\C-Sharp\Temperature Conversion GUI\Temperature Conversion GUI\obj\Debug\net6.0-windows\Temperature Conversion GUI.dll
+C:\Users\Austin\Desktop\git\C-Sharp\Temperature Conversion GUI\Temperature Conversion GUI\obj\Debug\net6.0-windows\refint\Temperature Conversion GUI.dll
+C:\Users\Austin\Desktop\git\C-Sharp\Temperature Conversion GUI\Temperature Conversion GUI\obj\Debug\net6.0-windows\Temperature Conversion GUI.pdb
+C:\Users\Austin\Desktop\git\C-Sharp\Temperature Conversion GUI\Temperature Conversion GUI\obj\Debug\net6.0-windows\Temperature Conversion GUI.genruntimeconfig.cache
+C:\Users\Austin\Desktop\git\C-Sharp\Temperature Conversion GUI\Temperature Conversion GUI\obj\Debug\net6.0-windows\ref\Temperature Conversion GUI.dll
