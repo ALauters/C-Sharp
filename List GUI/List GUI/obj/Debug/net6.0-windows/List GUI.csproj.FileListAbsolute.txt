@@ -1,0 +1,17 @@
+C:\Users\Austin\Desktop\git\C-Sharp\List GUI\List GUI\bin\Debug\net6.0-windows\List GUI.exe
+C:\Users\Austin\Desktop\git\C-Sharp\List GUI\List GUI\bin\Debug\net6.0-windows\List GUI.deps.json
+C:\Users\Austin\Desktop\git\C-Sharp\List GUI\List GUI\bin\Debug\net6.0-windows\List GUI.runtimeconfig.json
+C:\Users\Austin\Desktop\git\C-Sharp\List GUI\List GUI\bin\Debug\net6.0-windows\List GUI.dll
+C:\Users\Austin\Desktop\git\C-Sharp\List GUI\List GUI\bin\Debug\net6.0-windows\List GUI.pdb
+C:\Users\Austin\Desktop\git\C-Sharp\List GUI\List GUI\obj\Debug\net6.0-windows\List GUI.csproj.AssemblyReference.cache
+C:\Users\Austin\Desktop\git\C-Sharp\List GUI\List GUI\obj\Debug\net6.0-windows\List_GUI.Form1.resources
+C:\Users\Austin\Desktop\git\C-Sharp\List GUI\List GUI\obj\Debug\net6.0-windows\List GUI.csproj.GenerateResource.cache
+C:\Users\Austin\Desktop\git\C-Sharp\List GUI\List GUI\obj\Debug\net6.0-windows\List GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Desktop\git\C-Sharp\List GUI\List GUI\obj\Debug\net6.0-windows\List GUI.AssemblyInfoInputs.cache
+C:\Users\Austin\Desktop\git\C-Sharp\List GUI\List GUI\obj\Debug\net6.0-windows\List GUI.AssemblyInfo.cs
+C:\Users\Austin\Desktop\git\C-Sharp\List GUI\List GUI\obj\Debug\net6.0-windows\List GUI.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\git\C-Sharp\List GUI\List GUI\obj\Debug\net6.0-windows\List GUI.dll
+C:\Users\Austin\Desktop\git\C-Sharp\List GUI\List GUI\obj\Debug\net6.0-windows\refint\List GUI.dll
+C:\Users\Austin\Desktop\git\C-Sharp\List GUI\List GUI\obj\Debug\net6.0-windows\List GUI.pdb
+C:\Users\Austin\Desktop\git\C-Sharp\List GUI\List GUI\obj\Debug\net6.0-windows\List GUI.genruntimeconfig.cache
+C:\Users\Austin\Desktop\git\C-Sharp\List GUI\List GUI\obj\Debug\net6.0-windows\ref\List GUI.dll
