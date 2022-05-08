@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Austin\\Desktop\\git\\C-Sharp\\File_IO_Basics\\File_IO_Basics\\File_IO_Basics.csproj",
+      "projectUniqueName": "C:\\Users\\Austin\\Desktop\\git\\C-Sharp\\File_IO_Basics\\File_IO_Basics.csproj",
       "projectName": "File_IO_Basics",
-      "projectPath": "C:\\Users\\Austin\\Desktop\\git\\C-Sharp\\File_IO_Basics\\File_IO_Basics\\File_IO_Basics.csproj",
+      "projectPath": "C:\\Users\\Austin\\Desktop\\git\\C-Sharp\\File_IO_Basics\\File_IO_Basics.csproj",
       "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Austin\\Desktop\\git\\C-Sharp\\File_IO_Basics\\File_IO_Basics\\obj\\",
+      "outputPath": "C:\\Users\\Austin\\Desktop\\git\\C-Sharp\\File_IO_Basics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Users\Austin\Desktop\git\C-Sharp\File_IO_Basics\bin\Debug\net6.0\File_IO_Basics.exe
+C:\Users\Austin\Desktop\git\C-Sharp\File_IO_Basics\bin\Debug\net6.0\File_IO_Basics.deps.json
+C:\Users\Austin\Desktop\git\C-Sharp\File_IO_Basics\bin\Debug\net6.0\File_IO_Basics.runtimeconfig.json
+C:\Users\Austin\Desktop\git\C-Sharp\File_IO_Basics\bin\Debug\net6.0\File_IO_Basics.dll
+C:\Users\Austin\Desktop\git\C-Sharp\File_IO_Basics\bin\Debug\net6.0\File_IO_Basics.pdb
+C:\Users\Austin\Desktop\git\C-Sharp\File_IO_Basics\obj\Debug\net6.0\File_IO_Basics.csproj.AssemblyReference.cache
+C:\Users\Austin\Desktop\git\C-Sharp\File_IO_Basics\obj\Debug\net6.0\File_IO_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\Desktop\git\C-Sharp\File_IO_Basics\obj\Debug\net6.0\File_IO_Basics.AssemblyInfoInputs.cache
+C:\Users\Austin\Desktop\git\C-Sharp\File_IO_Basics\obj\Debug\net6.0\File_IO_Basics.AssemblyInfo.cs
+C:\Users\Austin\Desktop\git\C-Sharp\File_IO_Basics\obj\Debug\net6.0\File_IO_Basics.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\git\C-Sharp\File_IO_Basics\obj\Debug\net6.0\File_IO_Basics.dll
+C:\Users\Austin\Desktop\git\C-Sharp\File_IO_Basics\obj\Debug\net6.0\refint\File_IO_Basics.dll
+C:\Users\Austin\Desktop\git\C-Sharp\File_IO_Basics\obj\Debug\net6.0\File_IO_Basics.pdb
+C:\Users\Austin\Desktop\git\C-Sharp\File_IO_Basics\obj\Debug\net6.0\File_IO_Basics.genruntimeconfig.cache
+C:\Users\Austin\Desktop\git\C-Sharp\File_IO_Basics\obj\Debug\net6.0\ref\File_IO_Basics.dll
