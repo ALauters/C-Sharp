@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace File_IO_Basics 
 {
     internal class Program
     {
@@ -14,15 +14,27 @@ namespace MyApp // Note: actual namespace depends on the project name.
             // Console.WriteLine(filepath);
 
             // Printing out all the lines from the file
-            foreach(String line in lines)
+            // foreach(String line in lines)
+            // {
+            //     Console.WriteLine(line);
+            // }
+
+            // lines.Add("Brian, Purple, 26");
+            // File.WriteAllLines(filepath, lines);
+
+            List <Person> people = new List<Person>();
+
+            foreach(string line in lines)
             {
-                Console.WriteLine(line);
+                string[] items = line.Split(',');
+                Person p = new Person(items[0], items[1], items[2]);
+                people.Add(p);
             }
 
-            lines.Add("Brian, Purple, 26");
-            File.WriteAllLines(filepath, lines);
-
-            
+            foreach(Person p in people)
+            {
+                Console.WriteLine(p);
+            }
 
         }
     }
