@@ -1,0 +1,8 @@
+C:\Users\austi\Desktop\git\C-Sharp\ChessConsoleApp\ChessConsoleApp\bin\Debug\ChessConsoleApp.exe.config
+C:\Users\austi\Desktop\git\C-Sharp\ChessConsoleApp\ChessConsoleApp\bin\Debug\ChessConsoleApp.exe
+C:\Users\austi\Desktop\git\C-Sharp\ChessConsoleApp\ChessConsoleApp\bin\Debug\ChessConsoleApp.pdb
+C:\Users\austi\Desktop\git\C-Sharp\ChessConsoleApp\ChessConsoleApp\obj\Debug\ChessConsoleApp.csproj.AssemblyReference.cache
+C:\Users\austi\Desktop\git\C-Sharp\ChessConsoleApp\ChessConsoleApp\obj\Debug\ChessConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\austi\Desktop\git\C-Sharp\ChessConsoleApp\ChessConsoleApp\obj\Debug\ChessConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\austi\Desktop\git\C-Sharp\ChessConsoleApp\ChessConsoleApp\obj\Debug\ChessConsoleApp.exe
+C:\Users\austi\Desktop\git\C-Sharp\ChessConsoleApp\ChessConsoleApp\obj\Debug\ChessConsoleApp.pdb
