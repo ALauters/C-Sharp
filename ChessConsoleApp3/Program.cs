@@ -1,17 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using chessboard;
+using ChessConsoleAppBoard;
 
-namespace ChessConsoleApp
+namespace ChessConsoleApp3
 {
     class Program
     {
-        // ToDo: Rewatch the creating of class videos I did it wrong
-
-
         static Board myBoard = new Board(8);
         static String pieceName = "";
 
@@ -32,7 +25,7 @@ namespace ChessConsoleApp
             // I wouldlike to make this work with actual chess board leters and numbers like A8
             Console.WriteLine("Enter the row number 0-7");
             int currentRow = int.Parse(Console.ReadLine());
-            if(currentRow < 0 || currentRow > 7)
+            if (currentRow < 0 || currentRow > 7)
             {
                 Console.WriteLine("Incorrect value, using default of 3");
                 currentRow = 3;
@@ -49,7 +42,7 @@ namespace ChessConsoleApp
             Console.WriteLine("What Piece Do You Want To Place?\nKing\nQueen\nBishop\nKnight\nRook\nPawn");
             pieceName = Console.ReadLine().ToLower();
 
-            if(pieceName != "king" && pieceName != "queen" && pieceName != "bishop" && pieceName != "rook" && pieceName != "pawn")
+            if (pieceName != "king" && pieceName != "queen" && pieceName != "bishop" && pieceName != "rook" && pieceName != "pawn")
             {
                 Console.WriteLine($"Incorrect input of {pieceName}, using default of Queen");
                 pieceName = "queen";
@@ -63,11 +56,11 @@ namespace ChessConsoleApp
             // X is piece location
             // + is legal move
 
-            for(int row = 0; row< myBoard.Size; row++)
+            for (int row = 0; row < myBoard.Size; row++)
             {
                 Console.WriteLine("+---+---+---+---+---+---+---+---+");
 
-                for(int col = 0; col < myBoard.Size; col++)
+                for (int col = 0; col < myBoard.Size; col++)
                 {
                     Cell c = myBoard.theGrid[row, col];
 

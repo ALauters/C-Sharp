@@ -1,0 +1,11 @@
+C:\Users\Austin\Desktop\git\C-Sharp\ChessConsoleApp3\bin\Debug\ChessConsoleApp3.exe.config
+C:\Users\Austin\Desktop\git\C-Sharp\ChessConsoleApp3\bin\Debug\ChessConsoleApp3.exe
+C:\Users\Austin\Desktop\git\C-Sharp\ChessConsoleApp3\bin\Debug\ChessConsoleApp3.pdb
+C:\Users\Austin\Desktop\git\C-Sharp\ChessConsoleApp3\bin\Debug\ChessConsoleAppBoard.dll
+C:\Users\Austin\Desktop\git\C-Sharp\ChessConsoleApp3\bin\Debug\ChessConsoleAppBoard.pdb
+C:\Users\Austin\Desktop\git\C-Sharp\ChessConsoleApp3\obj\Debug\ChessConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Austin\Desktop\git\C-Sharp\ChessConsoleApp3\obj\Debug\ChessConsoleApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Austin\Desktop\git\C-Sharp\ChessConsoleApp3\obj\Debug\ChessConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\git\C-Sharp\ChessConsoleApp3\obj\Debug\ChessConsoleApp3.csproj.CopyComplete
+C:\Users\Austin\Desktop\git\C-Sharp\ChessConsoleApp3\obj\Debug\ChessConsoleApp3.exe
+C:\Users\Austin\Desktop\git\C-Sharp\ChessConsoleApp3\obj\Debug\ChessConsoleApp3.pdb

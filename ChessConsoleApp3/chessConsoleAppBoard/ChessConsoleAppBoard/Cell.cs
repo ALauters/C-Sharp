@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace chessboard
+namespace ChessConsoleAppBoard
 {
     public class Cell
     {

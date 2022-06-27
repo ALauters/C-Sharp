@@ -1,0 +1,6 @@
+C:\Users\Austin\Desktop\git\C-Sharp\ChessConsoleApp3\chessConsoleAppBoard\ChessConsoleAppBoard\bin\Debug\ChessConsoleAppBoard.dll
+C:\Users\Austin\Desktop\git\C-Sharp\ChessConsoleApp3\chessConsoleAppBoard\ChessConsoleAppBoard\bin\Debug\ChessConsoleAppBoard.pdb
+C:\Users\Austin\Desktop\git\C-Sharp\ChessConsoleApp3\chessConsoleAppBoard\ChessConsoleAppBoard\obj\Debug\ChessConsoleAppBoard.csproj.AssemblyReference.cache
+C:\Users\Austin\Desktop\git\C-Sharp\ChessConsoleApp3\chessConsoleAppBoard\ChessConsoleAppBoard\obj\Debug\ChessConsoleAppBoard.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\git\C-Sharp\ChessConsoleApp3\chessConsoleAppBoard\ChessConsoleAppBoard\obj\Debug\ChessConsoleAppBoard.dll
+C:\Users\Austin\Desktop\git\C-Sharp\ChessConsoleApp3\chessConsoleAppBoard\ChessConsoleAppBoard\obj\Debug\ChessConsoleAppBoard.pdb

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace chessboard
+namespace ChessConsoleAppBoard
 {
     public class Board
     {
@@ -101,28 +101,28 @@ namespace chessboard
         {
             // up (negative in a grid)
             int up = -1;
-            while(isSafe(cell, up, 0))
+            while (isSafe(cell, up, 0))
             {
                 up--;
             }
 
             // down
             int down = 1;
-            while(isSafe(cell, down, 0))
+            while (isSafe(cell, down, 0))
             {
                 down++;
             }
 
             // left
             int left = -1;
-            while(isSafe(cell, 0, left))
+            while (isSafe(cell, 0, left))
             {
                 left--;
             }
 
             // right
             int right = 1;
-            while(isSafe(cell, 0, right))
+            while (isSafe(cell, 0, right))
             {
                 right++;
             }
@@ -183,5 +183,8 @@ namespace chessboard
                 }
             }
         }
+
+
+
     }
 }
